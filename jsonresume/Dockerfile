@@ -34,11 +34,11 @@ RUN npm install jsonresume-theme-elegant \
                 jsonresume-theme-caffeine \
                 jsonresume-theme-macchiato-ibic \
                 jsonresume-theme-kendall-ksenia \
-		        jsonresume-theme-onepage-efficient \
-		        jsonresume-theme-eloquent \
-		        jsonresume-theme-fresh \
-		        jsonresume-theme-slickoverflow \
-		        jsonresume-theme-ks \
+	        jsonresume-theme-onepage-efficient \
+	        jsonresume-theme-eloquent \
+	        jsonresume-theme-fresh \
+	        jsonresume-theme-slickoverflow \
+	        jsonresume-theme-ks \
                 jsonresume-theme-bootstrap-icons \
                 jsonresume-theme-compact \
                 jsonresume-theme-compact-extended \
@@ -49,12 +49,8 @@ RUN npm install jsonresume-theme-elegant \
                 jsonresume-theme-nameme \
                 jsonresume-theme-sceptile \
                 jsonresume-theme-stackoverflow \
-                jsonresume-theme-stackoverflow2 \
                 jsonresume-theme-striking
                 
-
-		
-
 
 USER node
 WORKDIR /home/node
