@@ -38,7 +38,21 @@ RUN npm install jsonresume-theme-elegant \
 		        jsonresume-theme-eloquent \
 		        jsonresume-theme-fresh \
 		        jsonresume-theme-slickoverflow \
-		        jsonresume-theme-ks
+		        jsonresume-theme-ks \
+                jsonresume-theme-bootstrap-icons \
+                jsonresume-theme-compact \
+                jsonresume-theme-compact-extended \
+                jsonresume-theme-contempo \
+                jsonresume-theme-dark-classy \
+                jsonresume-theme-dark-classy-responsive \
+                jsonresume-theme-modern-extended \
+                jsonresume-theme-nameme \
+                jsonresume-theme-sceptile \
+                jsonresume-theme-stackoverflow \
+                jsonresume-theme-stackoverflow2 \
+                jsonresume-theme-striking
+                
+
 		
 
 
